@@ -5,8 +5,11 @@
 This class will start with a "tutorial session" that covers the most important concepts of DL.
 We will than see examples of different DL architectures
 
+- [Understanding back-propagation] (https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd)
+- [Understanding activation functions] (https://medium.com/the-theory-of-everything/understanding-activation-functions-in-neural-networks-9491262884e0)
+- [What does a convolutional layer do?](DL_VisConvFilters.ipynb) (https://www.geeksforgeeks.org/vgg-16-cnn-model) (https://www.youtube.com/watch?v=FmpDIaiMIeA)
+- [Data augmentation] (DLBasics_KerasDataAugmentation_Application.ipynb)
 - [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
-- [What does a convolutional layer do?](DL_VisConvFilters.ipynb) (https://www.geeksforgeeks.org/vgg-16-cnn-model)
 - [Using pre-trained models](DLBasics_TransferLearning.ipynb)
 
 All notebooks are in Colab:
