@@ -13,6 +13,9 @@ We will than see examples of different DL architectures
 - [Using pre-trained models](DLBasics_TransferLearning.ipynb)
 
 All notebooks are in Colab:
+
  https://drive.google.com/drive/u/4/folders/19ffl7D5ThqdSdybDK_X81qiSMcTzjJhc 
+
 As well as the data:
+
  https://drive.google.com/drive/u/4/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
