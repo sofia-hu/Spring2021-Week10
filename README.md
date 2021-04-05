@@ -1,18 +1,15 @@
 # MUSA 650: Machine Learning in Remote Sensing
 
-## Week9: Deep Learning - Part2
+## Week10: Deep Learning - Part3
 
-This repository contains multiple DL examples to present a selection of different components and variations of DL applications. We will let the intuition guide us in each example, aiming to have a "high-level" understanding of the general concepts.
+This class will start with a "tutorial session" that covers the most important concepts of DL.
+We will than see examples of different DL architectures
 
-- [A DL case study: Painters Challenge](DL_Painters.pdf)
 - [SHIPS segmented using a Convolutional Neural Net (CNN)](DLBasics_SHIPS.ipynb)
-- [What does a convolutional layer do?](DL_VisConvFilters.ipynb)
+- [What does a convolutional layer do?](DL_VisConvFilters.ipynb) (https://www.geeksforgeeks.org/vgg-16-cnn-model)
 - [Using pre-trained models](DLBasics_TransferLearning.ipynb)
-- [An example for a more complex architecture using Keras](DL_Keras_SiameseNet_MNIST.ipynb)
-- [Homework Assignment #5](hw5.ipynb)
 
 All notebooks are in Colab:
- https://drive.google.com/drive/folders/1br4IZGPH-ybkQvQWVHBIdorbwzqrmFxn?usp=sharing
- 
+ https://drive.google.com/drive/u/4/folders/19ffl7D5ThqdSdybDK_X81qiSMcTzjJhc 
 As well as the data:
- https://drive.google.com/drive/folders/15dLkXRSt1iFGsBDc2zw_w3QkMhjXE2OE?usp=sharing
+ https://drive.google.com/drive/u/4/folders/10HpS26ZPhUXaJ8FrEMuUD01-aSjoTfC7
